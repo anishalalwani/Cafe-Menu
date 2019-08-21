@@ -6,3 +6,5 @@ While I was covering on a course(Hands-On Projects for HTML & CSS
 
 
 The final product of the project is as follows:
+
+![Image of Cafe Menu](https://github.com/anishalalwani/Cafe-Menu/blob/master/Cafe%20Menu%20Project.png)
